@@ -4,8 +4,8 @@ Building sovereign Ai infrastructure on Cloudflare.
 
 ## Projects
 
-- **Oracle960** — Multi-user Ai platform with per-user Durable Objects. Think Agent SDK + Astro frontend.
-- **Alfred** — Personal Ai assistant (OpenClaw powered by Oracle960).
+- **Oracle960** — Multi-user Ai platform with per-user Durable Objects. Think Agent SDK + Astro frontend. w/ offline local mode.
+- **Alfred** — Always online Personal Ai assistant (OpenClaw powered by Oracle960).
 - **Build** — Local SEO/Agent friendly site generation vibe-coding platform with CMS (CloudFlare VibeSDK + emdashcms + Astro).
 
 ## Stack
