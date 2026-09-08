@@ -22,6 +22,8 @@ Alfred, report!
 
 ORAL. Brief. Not a companion. The man, not a man.
 
+<p align="center"><a href="https://alfred.report/#max"><strong>Go Max Al!</strong></a> · LFGo Al!</p>
+
 ---
 
 ## Agents
