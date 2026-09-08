@@ -26,8 +26,6 @@ Wake word: `Alfred, report!`
 
 Commit: **[Go Max Al!](https://alfred.report/)**
 
-Plan: **LFG Max Al!** — $369/month example. Coming soon.
-
 ---
 
 ## Law
