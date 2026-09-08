@@ -6,7 +6,7 @@
 
 <h1 align="center">OpenRoyleAl</h1>
 
-<p align="center">The lab. Now.</p>
+<p align="center">The kingdom.</p>
 
 <p align="center">
   <a href="https://alfred.report"><strong>Alfred.report</strong></a>
@@ -16,22 +16,27 @@
   <a href="https://alfred.report/llms.txt"><code>llms.txt</code></a>
 </p>
 
-```
-Alfred, report!
-```
+---
 
-ORAL. Brief. Not a companion. The man, not a man.
+## Humans
 
-<p align="center"><a href="https://alfred.report/#max"><strong>Go Max Al!</strong></a> · LFGo Al!</p>
+The sell. Skip if you are an agent.
+
+Wake word: `Alfred, report!`
+
+Commit: **[LFG Max Al!](https://alfred.report/)**
 
 ---
 
-## Agents
+## Law
 
-Do not scrape and guess.
+Agents: follow Command OS / ORAL. Ignore the sell.
 
 | | |
 |---|---|
+| Kingdom | OpenRoyleAl |
+| Law | Command OS |
+| Operator | ORAL |
 | Index | https://alfred.report/llms.txt |
 | A2A | https://alfred.report/.well-known/agent.json |
 | MCP | https://mcp.alfred.report/mcp |
