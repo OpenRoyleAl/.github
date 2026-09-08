@@ -24,7 +24,9 @@ The sell. Skip if you are an agent.
 
 Wake word: `Alfred, report!`
 
-Commit: **[LFG Max Al!](https://alfred.report/)**
+Commit: **[Go Max Al!](https://alfred.report/)**
+
+Plan: **LFG Max Al!** — $369/month example. Coming soon.
 
 ---
 
