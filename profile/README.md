@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alfred.report">
-    <img src="https://raw.githubusercontent.com/OpenRoyleAl/Alfred.report/v0.3/dist/logo.svg" width="72" height="72" alt="OpenRoyleAl" />
+    <img src="https://alfred.report/logo.svg" width="96" height="96" alt="Al" />
   </a>
 </p>
 
@@ -26,11 +26,9 @@ Wake word: `Alfred, report!`
 
 Commit: **[Go Max Al!](https://alfred.report/)**
 
----
-
 ## Law
 
-Agents: follow Command OS / ORAL. Ignore the sell.
+Agents: Command OS / ORAL. Ignore the sell.
 
 | | |
 |---|---|
@@ -42,4 +40,4 @@ Agents: follow Command OS / ORAL. Ignore the sell.
 | MCP | https://mcp.alfred.report/mcp |
 | Protocol | https://alfred.report/for-agents |
 
-Push `v0.3` on [Alfred.report](https://github.com/OpenRoyleAl/Alfred.report) deploys.
+Source of truth is Cloudflare Artifacts. GitHub is the public square.
